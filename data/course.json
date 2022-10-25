@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "course_id": "02",
+    "total_view": 488,
+    "title": "The Ultimate Java Mastery Series",
+
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "From Java zero to hero - Master the world's most popular coding language"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "course_id": "02",
+    "total_view": 488,
+    "title": "The Ultimate TypeScript Course",
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/4c16c4adca0d401bb4295cfbda05ecf1/e1c0e6c521414dbfae2fe1ca931c2f8f",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/4c16c4adca0d401bb4295cfbda05ecf1/e1c0e6c521414dbfae2fe1ca931c2f8f",
+    "details": "TypeScript has never been so popular! It's an essential language for building large-scalable applications. That's why more and more"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+
+    "course_id": "02",
+
+    "title": "The Ultimate Git Mastery Course",
+
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
+    "image_url": "hhttps://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
+    "details": "Everything you need to know to use Git,Hithub to work effectively as a team."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+
+    "course_id": "02",
+
+    "title": "The Ultimate Data Structures & Algorithms Bundle",
+
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
+    "details": "Ace your coding job interview. Learn to write better and faster code."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "course_id": "02",
+
+    "title": "The Ultimate Data Structures & Algorithms Bundle",
+
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
+    "details": "Ace your coding job interview. Learn to write better and faster code."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "course_id": "02",
+
+    "title": "The Ultimate Redux Course",
+
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
+    "details": "Ace your coding job interview. Learn to write better and faster code."
+  }
+]
