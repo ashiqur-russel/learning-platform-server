@@ -24,7 +24,15 @@ app.get("/course/:id", (req, res) => {
   const selectedCourse = course.find((n) => n._id === id);
   res.send(selectedCourse);
 });
-
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  if (id === "07") {
+    res.send(course);
+  } else {
+    const category_course = course.filter((n) => n.course_id === id);
+    res.send(category_course);
+  }
+});
 app.listen(port, () => {
   console.log("Dragon News Server running on port", port);
 });
