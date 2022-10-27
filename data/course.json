@@ -5,8 +5,8 @@
     "total_view": 488,
     "title": "The Ultimate Java Mastery Series",
 
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/rfSheVSNQQ6SAyC8ytdP",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/rfSheVSNQQ6SAyC8ytdP",
     "details": "From Java zero to hero - Master the world's most popular coding language"
   },
   {
@@ -26,7 +26,7 @@
     "title": "The Ultimate Git Mastery Course",
 
     "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
-    "image_url": "hhttps://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/tsmP4fdkSmKaiez6t2jl",
     "details": "Everything you need to know to use Git,Hithub to work effectively as a team."
   },
   {
@@ -44,11 +44,11 @@
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "course_id": "02",
 
-    "title": "The Ultimate Data Structures & Algorithms Bundle",
+    "title": "Ultimate C++ Part 3: Advanced",
 
-    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
-    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/FjpqrSFwSvGCTL3cCqPt",
-    "details": "Ace your coding job interview. Learn to write better and faster code."
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/4Q309cOSVm1nlkItXvKA",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/4Q309cOSVm1nlkItXvKA",
+    "details": "Master object-oriented programming with C++. Learn all about classes, inheritance, exceptions, templates and more."
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -56,8 +56,95 @@
 
     "title": "The Ultimate Redux Course",
 
+    "thumbnail_url": "https://www.courselounge.com/wp-content/uploads/blockchain-developer-udacity.jpg",
+    "image_url": "https://www.courselounge.com/wp-content/uploads/blockchain-developer-udacity.jpg",
+    "details": "This specialization (visit website) contains 4 blockchain courses that start with an explanation of concepts of blockchain and the Ethereum platform."
+  },
+  {
+    "_id": "11468ed61jee84de492a8h04158a22f0",
+    "course_id": "03",
+
+    "title": "Become a Blockchain Developer – Udacity Nanodegree",
+
+    "thumbnail_url": "https://www.courselounge.com/wp-content/uploads/certified-blockchain-architect-blockchain-council.jpg",
+    "image_url": "https://www.courselounge.com/wp-content/uploads/certified-blockchain-architect-blockchain-council.jpg",
+    "details": "This certification will teach you how to transform business needs into technical specifications and gauge the solutions’ parameters"
+  },
+  {
+    "_id": "11458ed61jee88de492a8h04158a22f0",
+    "course_id": "03",
+
+    "title": "Certified Blockchain Architect – Blockchain Council",
+
     "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
     "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Dk8I3q9CSNa8KkINL0yA",
     "details": "Ace your coding job interview. Learn to write better and faster code."
+  },
+  {
+    "_id": "11458ed61jeefgde492a8h04158a22f0",
+    "course_id": "03",
+
+    "title": "Certified Blockchain Architect – Blockchain Council",
+
+    "thumbnail_url": "https://www.courselounge.com/wp-content/uploads/enterprise-blockchain-architect-101-blockchains.jpg",
+    "image_url": "https://www.courselounge.com/wp-content/uploads/enterprise-blockchain-architect-101-blockchains.jpg",
+    "details": "This is an advanced-level blockchain course (visit website) for individuals who already have a sound grasp of blockchain concepts."
+  },
+  {
+    "_id": "11458ed61jeefgde492a8hl4158a22f0",
+    "course_id": "01",
+
+    "title": "Learn German for everyday situations",
+
+    "thumbnail_url": "https://www.courselounge.com/wp-content/uploads/enterprise-blockchain-architect-101-blockchains.jpg",
+    "image_url": "https://www.courselounge.com/wp-content/uploads/enterprise-blockchain-architect-101-blockchains.jpg",
+    "details": "Speak German with confidence. Take our live courses, available for all levels, with professional teachers and flexibly create your own schedule."
+  },
+  {
+    "_id": "11458ed61jvbfgde492a8hl4158a22f0",
+    "course_id": "01",
+
+    "title": "Speak French for everyday situations",
+
+    "thumbnail_url": "https://www.lingoda.com/wp-content/webp-express/webp-images/uploads/2022/05/fr-tw-image-and-text-desktop-1.png.webp",
+    "image_url": "https://www.lingoda.com/wp-content/webp-express/webp-images/uploads/2022/05/fr-tw-image-and-text-desktop-1.png.webp",
+    "details": "Speak German with confidence. Take our live courses, available for all levels, with professional teachers and flexibly create your own schedule."
+  },
+  {
+    "_id": "11468ed61jvbfgde492a8hl4158a22f0",
+    "course_id": "04",
+
+    "title": "The Ultimate React Native Series",
+    "thumbnail_url": "https://www.lingoda.com/wp-content/webp-express/webp-images/uploads/2022/05/fr-tw-image-and-text-desktop-1.png.webp",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4C6yPDywSUeWYLyg1h9G",
+    "details": "Everything you need to build and distribute professional-quality apps with React Native"
+  },
+
+  {
+    "_id": "11478ed61jvbfgde492a8hl4158a22f0",
+    "course_id": "04",
+
+    "title": "Xamarin Forms: Build Native Mobile Apps with C#",
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6AObeIZERZKoPv50GCTk",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6AObeIZERZKoPv50GCTk",
+    "details": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills"
+  },
+  {
+    "_id": "11488ed61jvbfgde492a8hl4158a22f0",
+    "course_id": "06",
+
+    "title": "The Complete Node.js Course",
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
+    "details": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB."
+  },
+  {
+    "_id": "11498ed61jvbfgde492a8hl4158a22f0",
+    "course_id": "06",
+
+    "title": "Entity Framework 6 in Depth",
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/ZNHeSOueTruHZ1qjsYo6",
+    "image_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/ZNHeSOueTruHZ1qjsYo6",
+    "details": "Connect your applicationsto a SQL Server database"
   }
 ]
